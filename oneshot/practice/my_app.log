@@ -1,0 +1,17 @@
+2024-09-14 10:15:03,456 - INFO - Application started
+2024-09-14 10:15:03,789 - DEBUG - Loading configuration file: config.json
+2024-09-14 10:15:03,891 - INFO - Configuration loaded successfully
+2024-09-14 10:15:04,012 - INFO - Connecting to the database
+2024-09-14 10:15:04,345 - INFO - Database connection established
+2024-09-14 10:15:05,124 - WARNING - No data found for user ID 12345
+2024-09-14 10:15:05,678 - INFO - Starting background job for data processing
+2024-09-14 10:15:06,045 - ERROR - Failed to retrieve data from API: TimeoutError
+2024-09-14 10:15:06,234 - DEBUG - Retrying API request...
+2024-09-14 10:15:07,567 - INFO - API data fetched successfully
+2024-09-14 10:15:08,123 - DEBUG - Parsing API response
+2024-09-14 10:15:09,456 - INFO - Data processing completed
+2024-09-14 10:15:09,789 - DEBUG - Closing database connection
+2024-09-14 10:15:10,012 - INFO - Database connection closed
+2024-09-14 10:15:10,012 - INFO - PYTHON
+2024-09-14 10:15:10,345 - INFO - Application finished execution
+2024-09-14 10:15:10,344 - ERROR - Please update your python
